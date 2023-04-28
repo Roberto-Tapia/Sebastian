@@ -10,7 +10,7 @@ E-mail template to send form submission information in a way that is easy to rea
 
 **Tech used:** HTML, CSS, MJML
 
-My client needed to collect data from clients. Clients would input data on a form, and that data would then be input into an email to be sent out. At first, I started using tables to format the email templates. This allowed me to create a clear structure that organized the data in a logical way. However, I soon found that unless using a responsive template, designing an e-mail from scratch requires extensive knowledge of special cases and ghost tables to make it responsive.
+My client needed to collect data from clients. Clients would input data on a form, and that data would then be inserted into an email to be sent out. At first, I started using tables to format the email templates. This allowed me to create a clear structure that organized the data in a logical way. However, I soon found that unless using a responsive template, designing an e-mail from scratch requires extensive knowledge of special cases and ghost tables to make it responsive.
 
 That's when I discovered MJML, a markup language specifically designed for responsive email templates. With MJML, I was able to create email templates that were not only clean and organized, but also visually appealing and easy to read on any device.
 
