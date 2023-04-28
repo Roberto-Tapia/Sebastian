@@ -25,6 +25,8 @@ You don't have to include this section but interviewers *love* that you can not 
 
 For this project I learned about tables, and in-line CSS. I found out the requirements needed to make e-mails responsive, and opted for MJML which makes designing responsive e-mails a breeze. I re-learned in-line CSS and learned about its limitations. I learned how to use MJML syntax.
 
+MJML elements also come with their own default styling, which required me to read up on the documentation to make alterations to be able to style my email the way I wanted it to.
+
 <!-- ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
