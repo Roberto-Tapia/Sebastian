@@ -1,4 +1,4 @@
-# My Awesome Project
+# About this project:
 E-mail template to send form submission information in a way that is easy to read.
 
 
